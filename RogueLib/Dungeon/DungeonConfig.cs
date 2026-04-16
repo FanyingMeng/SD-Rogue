@@ -52,7 +52,7 @@ public static class DungeonConfig {
              ###############
       """;
 
-  static string RIP =
+  public static string RIP =
       """
 
                     __________
