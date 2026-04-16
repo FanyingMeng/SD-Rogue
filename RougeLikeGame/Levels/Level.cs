@@ -21,7 +21,7 @@ namespace RlGameNS;
 // 
 // *TileSets* are HashSets of grid points, TileSets can be used to tell 
 // GameScreen what tiles to draw. TileSets can be combined with Union and 
-// Intersect to create complex tile sets.
+// Intersect to create complex tile sets
 // -----------------------------------------------------------------------
 public class Level : Scene
 {

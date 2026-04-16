@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="Demo02/Demo02.csproj" />
   <Project Path="RogueLib/RogueLib.csproj" />
   <Project Path="RogueTests\RogueTests.csproj" />
   <Project Path="RougeLikeGame\RougeLikeGame.csproj" />
